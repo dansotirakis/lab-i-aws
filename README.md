@@ -5,6 +5,7 @@
 ```
 ├── EC2.md
 ├── IAM.md
+├── SQS.md
 └── README.md
 ```
 

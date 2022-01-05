@@ -5,6 +5,7 @@
 ```
 ├── CloudWat
 ├── COGNITO
+├── DynamoDB
 ├── EC2
 ├── IAM
 ├── S3

@@ -4,14 +4,17 @@
 
 ```
 ├── CloudWat
+├── CloudWatch
 ├── COGNITO
 ├── DynamoDB
 ├── EC2
 ├── IAM
+├── Lambda
 ├── S3
 ├── SNS
-└── SQS
+├── SQS
 ├── VPC
+└── Workbench
 ```
 
 

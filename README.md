@@ -11,6 +11,7 @@
 ├── IAM
 ├── Lambda
 ├── S3
+├── SES
 ├── SNS
 ├── SQS
 ├── VPC

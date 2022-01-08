@@ -7,6 +7,7 @@
 ├── COGNITO
 ├── DynamoDB
 ├── EC2
+├── FSx
 ├── Gateway
 ├── IAM
 ├── Lambda

@@ -18,9 +18,9 @@
 
 1. Certifique-se de estar na região da **Virgínia** .
 
-2. Navegue até EC2 clicando no ![img](https://play.whizlabs.com/frontend/web/media/2020/02/19/image7_37_32.png) menu na parte superior e, a seguir, clique em **EC2** na  seção **Computar** .
+2. Navegue até EC2 clicando no ![img](https://play.whizlabs.com/frontend/web/media/2020/02/19/image7_37_32.png) menu na parte superior e, a seguir, clique em **EC2** na  seção **Computação**.
 
-3. Navegue até **Instâncias** no menu do lado esquerdo e clique no botão **Iniciar Instâncias** .
+3. Navegue até **Instâncias** no menu do lado esquerdo e clique no botão **Iniciar Instâncias**.
 
 4. **Escolha uma Amazon Machine Image (AMI):** Pesquise **Amazon Linux 2 AMI** na caixa de pesquisa e clique no  botão de **seleção** .
 

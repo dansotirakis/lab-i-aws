@@ -19,3 +19,9 @@ Benefícios:
 - Permite que você use suas próprias regras ou compre regras gerenciadas do AWS Marketplace
 
 O Firewall Manager é especialmente útil quando você deseja proteger toda a organização em vez de um número pequeno de contas e recursos específicos, ou se você adiciona com frequência novos recursos a serem protegidos. O Firewall Manager também fornece monitoramento centralizado de ataques DDoS em toda a organização.
+
+# ManagerAdministrador
+
+Quando você define a conta de administrador do Firewall Manager, o Firewall Manager a define automaticamente como aAWS OrganizationsAdministrador delegado do Firewall Manager. 
+
+Isso permite que o Firewall Manager acesse informações sobre as unidades organizacionais (UOs) que você usa para especificar o escopo das políticas do Firewall Manager.
